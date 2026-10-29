@@ -1,0 +1,8 @@
+# Generated Finder and MATLAB metadata. Historical copies are kept in archive/.
+.DS_Store
+.MATLABDriveTag
+*.asv
+*.m~
+!archive/**/*.asv
+!archive/repository-metadata/**/.DS_Store
+!archive/repository-metadata/**/.MATLABDriveTag

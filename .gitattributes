@@ -1,0 +1,2 @@
+# Keep original camera footage intact without storing large blobs in Git history.
+*.mov filter=lfs diff=lfs merge=lfs -text

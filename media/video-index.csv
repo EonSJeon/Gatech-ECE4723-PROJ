@@ -1,0 +1,21 @@
+original_filename,path,duration_seconds,resolution,description,confidence
+IMG_2632.MOV,media/videos/bench-testing/hashirama-live-monitor-demo-01.mov,22.568,1080x1920,MATLAB monitor running on laptop; waveforms appear in both plots.,high
+IMG_2633.MOV,media/videos/bench-testing/hashirama-monitor-and-uploader-demo.mov,29.537,1080x1920,MATLAB monitor and uploader waveform selection on laptop.,high
+IMG_2635.MOV,media/videos/bench-testing/hashirama-laptop-monitor-overview.mov,4.968,1080x1920,Short pan from bench hardware to MATLAB monitor on laptop.,high
+IMG_2636.MOV,media/videos/bench-testing/hashirama-laptop-monitor-closeup.mov,1.167,1080x1920,Short closeup of MATLAB monitor on laptop.,high
+IMG_2641.MOV,media/videos/bench-testing/hashirama-pulse-waveform-monitor.mov,11.568,1080x1920,Desktop monitor showing matching pulse-like waveforms.,high
+IMG_2642.MOV,media/videos/bench-testing/hashirama-waveform-upload-and-hardware.mov,49.772,1080x1920,"Uploader waveform and range selection, ending with USB-connected board.",high
+IMG_2643.MOV,media/videos/bench-testing/hashirama-waveform-range-selection.mov,44.838,1080x1920,Uploader window with shaded waveform-range selection.,high
+IMG_2644.MOV,media/videos/bench-testing/hashirama-waveform-playback-demo-01.mov,67.107,1080x1920,Uploader and monitor transitions with periodic playback traces.,high
+IMG_2645.MOV,media/videos/bench-testing/hashirama-waveform-playback-demo-02.mov,47.205,1080x1920,Monitor and uploader views with repeated pulse traces.,high
+IMG_2647.MOV,media/videos/bench-testing/hashirama-periodic-waveform-monitor.mov,5.333,1920x1080,Landscape closeup of periodic waveforms in MATLAB monitor.,high
+IMG_2654.MOV,media/videos/plant-experiments/plant-electrode-and-monitor-setup-01.mov,5.933,1920x1080,"Plant tray, electrode leads, circuit board, and laptop GUI.",high
+IMG_2655.MOV,media/videos/plant-experiments/plant-electrode-and-monitor-setup-02.mov,9.002,1920x1080,"Plant tray, electrode leads, board, and laptop; GUI and MATLAB editor views.",high
+IMG_2656.MOV,media/videos/plant-experiments/plant-signal-monitor-demo-01.mov,95.708,1920x1080,Long bench demo showing plant/device setup and laptop signal traces.,high
+IMG_2657.MOV,media/videos/plant-experiments/plant-signal-monitor-demo-02.mov,64.673,1920x1080,Plant/device bench setup and closeup of waveform upload and monitor.,high
+IMG_2658.MOV,media/videos/plant-experiments/hashirama-plant-monitor-controls.mov,13.268,1920x1080,Laptop monitor controls alongside the plant setup.,high
+IMG_2659.MOV,media/videos/plant-experiments/plant-signal-response-closeup.mov,42.872,1920x1080,Laptop monitor followed by closeup of a recorded transient signal.,high
+IMG_2660.MOV,media/videos/plant-experiments/hashirama-display-settings-demo.mov,34.722,1920x1080,Closeup of MATLAB monitor and display/time-scale dropdown.,high
+IMG_2665.MOV,media/videos/project-fair/project-fair-device-and-laptop-demo.mov,4.633,1920x1080,Assembled green device enclosure and laptop on wooden display table; poster visible behind.,medium
+IMG_8679.mov,media/videos/plant-experiments/venus-flytrap-observation-01.mov,18.532,1080x1920,Closeup of potted Venus flytrap with electrode wiring; no unambiguous closure claim.,high
+IMG_8680.mov,media/videos/plant-experiments/venus-flytrap-observation-02.mov,9.01,1080x1920,Another closeup of potted Venus flytrap with wiring; no unambiguous closure claim.,high
