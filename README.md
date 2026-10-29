@@ -82,7 +82,7 @@ CSV files use `Time` in milliseconds and `Volt_In` and/or `Volt_Out` in millivol
 | [results/](results/README.md) | Device measurements, impulse-response plots, and 10–100 Hz digital verification captures. |
 | [docs/](docs/README.md) | Project poster, presentation, implementation notes, and the original-to-current file map. |
 | [media/](media/README.md) | Project fair, hardware, bench-test and team photos; earlier GUI screenshots; classified original MOV recordings. |
-| [archive/](archive/README.md) | Earlier MATLAB scripts, RTOS experiments, development/reference datasets, autosave backups, and preserved repository metadata. |
+| [archive/](archive/README.md) | Earlier MATLAB scripts, RTOS experiments, development/reference datasets, and autosave backups. |
 
 Original MOV footage is stored with Git LFS. See the [media guide](media/README.md#video-collection) for download instructions.
 

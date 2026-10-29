@@ -5,7 +5,7 @@
 | [Project poster](poster/venus-flytrap-recording-playback-poster.jpeg) | Original Georgia Tech senior design poster: project motivation, analog circuitry, digital design, validation figures, instructions, and team credits. |
 | [Final presentation](presentation/final-presentation.pptx) | Original 14-slide presentation, including the original speaker notes and embedded media. |
 | [Implementation notes](implementation-notes.md) | Hardware/software interface, firmware dependencies, and limitations found while inspecting the final source. |
-| [File map](file-map.csv) | Every file present before organization, its new location, and SHA-256 hashes. |
+| [File map](file-map.csv) | Original file locations, current locations, SHA-256 hashes, and explicit records of removed generated metadata. |
 | [App preview](images/hashirama-app.png) | Existing preview extracted from `Hashirama.mlapp`; the app file itself is unchanged. |
 
 Watch the [project explanation video](https://youtu.be/vUATFXuZiM0), published as **ECE4723 The Venus Flytrap Recording and Playback Device** by Sangeon Jeon (5:19).
@@ -18,4 +18,4 @@ Photos and videos were named from their visible contents. Video classification u
 
 The final application, firmware, historical code, datasets, presentation, and original media retain their original bytes. The file map records both the old and new paths so existing notes can be reconciled after the reorganization. Legacy development filenames were retained inside the archive to preserve experimental provenance.
 
-Finder and MATLAB metadata are preserved separately in `archive/repository-metadata/`. Those files were recovered from Git after an initial metadata cleanup. Two Finder files (`.DS_Store` and `Results/.DS_Store`) had pre-existing uncommitted changes, so their archived copies are the committed versions; the file map records the differing hashes. The other 17 metadata files match the pre-organization copies.
+Generated Finder and MATLAB metadata (`.DS_Store` and `.MATLABDriveTag`) is intentionally removed and ignored. The former metadata-only archive and its directories are no longer retained. In the file map, these 19 entries use `remove-generated-metadata` with empty current-path and current-hash fields; their original hashes remain as a record of the cleanup. Project code, data, presentations, and media are outside this metadata cleanup.
