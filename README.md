@@ -11,12 +11,24 @@ A system for recording and replaying electrical signals in Venus flytraps. The p
 | Resource | Link |
 | --- | --- |
 | Project explanation video | [Watch on YouTube — 5:19](https://youtu.be/vUATFXuZiM0) |
+| Device-induced flytrap closure | [Watch demonstration 1](media/videos/plant-experiments/venus-flytrap-observation-01.mov) · [Watch demonstration 2](media/videos/plant-experiments/venus-flytrap-observation-02.mov) |
 | Final project poster | [View the poster](docs/poster/venus-flytrap-recording-playback-poster.jpeg) |
 | Final presentation | [Download the PowerPoint, including speaker notes](docs/presentation/final-presentation.pptx) |
 
 <img src="media/photos/project-fair/team-at-demo-booth.jpeg" alt="The team presenting the plant electrophysiology device at the project fair" width="720">
 
 *The device, plant setup, and project poster at the senior design fair.*
+
+## Demonstration: closing a Venus flytrap with our device
+
+These recordings show **Venus flytraps closing in response to electrical stimulation from our device**. They demonstrate the physical result of the plant-stimulation system alongside the recording and playback software.
+
+| Demonstration | Original recording |
+| --- | --- |
+| Device-induced trap closure — demonstration 1 | [Watch the 18.5-second MOV](media/videos/plant-experiments/venus-flytrap-observation-01.mov) |
+| Device-induced trap closure — demonstration 2 | [Watch the 9.0-second MOV](media/videos/plant-experiments/venus-flytrap-observation-02.mov) |
+
+The links open the original, full-resolution recordings stored with Git LFS. Use **View raw** or **Download raw file** on GitHub if a browser preview is unavailable.
 
 ## Final product
 
@@ -90,7 +102,7 @@ Original MOV footage is stored with Git LFS. See the [media guide](media/README.
 
 *Recorded pulse/response example. The original data is retained in [results/measured-data/](results/measured-data/).*
 
-The application was checked to launch and close in MATLAB R2026a. This does not establish current end-to-end hardware performance. The preserved firmware has known buffer and timing limitations, documented in [implementation notes](docs/implementation-notes.md); the original presentation's design targets should not be read as guarantees for every operating mode.
+The closure videos above document the original prototype demonstration. A later software check confirmed that the application launches and closes in MATLAB R2026a. The preserved firmware has known buffer and timing limitations, documented in [implementation notes](docs/implementation-notes.md); the original presentation's design targets should not be read as guarantees for every operating mode.
 
 ## Final project poster
 

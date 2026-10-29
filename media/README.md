@@ -31,10 +31,21 @@ All **20 original MOV clips** are retained, totaling approximately **9 minutes 4
 | Folder | Clips | Subject |
 | --- | --- | --- |
 | [videos/bench-testing/](videos/bench-testing/) | 10 | MATLAB monitor/uploader controls, waveform selection, playback displays, and connected bench hardware. |
-| [videos/plant-experiments/](videos/plant-experiments/) | 9 | Plant/electrode setup, signal-monitor demonstrations, and Venus flytrap observations. |
+| [videos/plant-experiments/](videos/plant-experiments/) | 9 | Plant/electrode setup, signal-monitor demonstrations, and device-induced Venus flytrap closure demonstrations. |
 | [videos/project-fair/](videos/project-fair/) | 1 | Assembled device and laptop demonstration at the project display table. |
 
-The [video index](video-index.csv) gives each clip's original filename, current path, duration, resolution, description, and classification confidence. Start/middle/end frame samples were used for classification. The project-fair clip was grouped from its visible display setup and surrounding photo context. Observation clips are named without asserting that a particular electrical stimulus caused trap closure.
+### Device-induced flytrap closure
+
+The project team confirmed that these two recordings show Venus flytraps closing in response to stimulation from the project's own device:
+
+| Clip | Duration | Contents |
+| --- | --- | --- |
+| [venus-flytrap-observation-01.mov](videos/plant-experiments/venus-flytrap-observation-01.mov) | 18.5 seconds | Device-induced Venus flytrap closure, demonstration 1. |
+| [venus-flytrap-observation-02.mov](videos/plant-experiments/venus-flytrap-observation-02.mov) | 9.0 seconds | Device-induced Venus flytrap closure, demonstration 2. |
+
+Both are also featured in the [main README](../README.md#demonstration-closing-a-venus-flytrap-with-our-device). Their existing filenames are retained, with their confirmed experimental meaning recorded here and in the video index.
+
+The [video index](video-index.csv) gives each clip's original filename, current path, duration, resolution, description, and classification confidence. Initial classification used start/middle/end frame samples; the project team subsequently identified the two closure demonstrations above. The project-fair clip was grouped from its visible display setup and surrounding photo context.
 
 The largest original MOV is approximately 122 MiB. All original MOV recordings are tracked with **Git LFS**, preserving the full files while storing small pointers in ordinary Git history. Install Git LFS before cloning or contributing. To fetch the footage in an existing clone:
 
