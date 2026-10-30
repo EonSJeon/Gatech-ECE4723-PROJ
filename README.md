@@ -10,7 +10,7 @@ A system for recording and replaying electrical signals in Venus flytraps. The p
 
 | Resource | Link |
 | --- | --- |
-| Project explanation video | [Watch on YouTube — 5:19](https://youtu.be/vUATFXuZiM0) |
+| Final project presentation and demo | [Watch on YouTube — 5:19](https://youtu.be/vUATFXuZiM0) · [Original MP4](media/videos/presentations/final-project-presentation-and-demo.mp4) |
 | Device-induced flytrap closure | [Watch demonstration 1](media/videos/plant-experiments/venus-flytrap-observation-01.mov) · [Watch demonstration 2](media/videos/plant-experiments/venus-flytrap-observation-02.mov) |
 | Final project poster | [View the poster](docs/poster/venus-flytrap-recording-playback-poster.jpeg) |
 | Final presentation | [Download the PowerPoint, including speaker notes](docs/presentation/final-presentation.pptx) |
@@ -96,7 +96,7 @@ CSV files use `Time` in milliseconds and `Volt_In` and/or `Volt_Out` in millivol
 | [media/](media/README.md) | Project fair, hardware, bench-test and team photos; earlier GUI screenshots; classified original MOV recordings. |
 | [archive/](archive/README.md) | Earlier MATLAB scripts, RTOS experiments, development/reference datasets, and autosave backups. |
 
-Original MOV footage is stored with Git LFS. See the [media guide](media/README.md#video-collection) for download instructions.
+Original MOV footage and the complete presentation MP4 are stored with Git LFS. See the [media guide](media/README.md#video-collection) for download instructions.
 
 <img src="results/measured-data/impulse-response-overlay.jpg" alt="Recorded device pulse and response displayed together" width="620">
 
